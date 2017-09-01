@@ -1,3 +1,990 @@
- 
-{"error":{"description":"OK","code":"100"},"eventList":[{"eventMode":"53","responsible":"Huerta, Ruben Daniel","estatusActual":"103","pkEventId":"MEXNAC0066","evtName":"test","modalidad":"Educación de nuevos productos","fehcaInicio":"29/07/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":2670,"fkEvent":"MEXNAC0066","city":{"name":"CIUDAD DE MEXICO","state":{"name":"CIUDAD DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"CDMX","idState":588},"country":null,"status":null,"code":"CDMX","idCity":5961},"endDate":"2017-08-02","startDate":"2017-07-29","lodgingPlace":"test","evtEstimatedAudience":0,"evtGuestWithExpenses":0,"evtGuestWithOutExpenses":0,"noSpeaker":0,"noInternalGuest":0,"noExternalGuest":0,"totalPlaces":0,"evtSede":"test","backupGuest":0,"backupSpeaker":0,"cupos":[],"gps":[{"totalPlaces":null,"managerType":"P","pkDistPlaces":null,"userAuthorize":null,"userAssigned":null,"aviablePlaces":null,"fkCityByEvent":null,"userAssignedName":null}],"gvs":[{"totalPlaces":null,"managerType":"S","pkDistPlaces":null,"userAuthorize":null,"userAssigned":null,"aviablePlaces":null,"fkCityByEvent":null,"userAssignedName":null}],"justific":null,"quotes":[],"totalGps":0,"totalGvs":0,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"7","responsible":"Daniel Cruz","estatusActual":"103","pkEventId":"MEXNAC0047","evtName":"E13","modalidad":"Actualizacion de Investigaciones Cerradas","fehcaInicio":"31/05/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":1877,"fkEvent":"MEXNAC0047","city":{"name":"TOLUCA","state":{"name":"EDO. DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"MEX","idState":594},"country":null,"status":null,"code":"MEX","idCity":5936},"endDate":"2017-05-31","startDate":"2017-05-31","lodgingPlace":"E13","evtEstimatedAudience":2,"evtGuestWithExpenses":2,"evtGuestWithOutExpenses":2,"noSpeaker":2,"noInternalGuest":2,"noExternalGuest":4,"totalPlaces":8,"evtSede":"E13","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":1,"managerType":"P","pkDistPlaces":8164,"userAuthorize":"PRAVIAME","userAssigned":"CRUZDANI","aviablePlaces":1,"fkCityByEvent":1877,"userAssignedName":"Cruz, Daniel"},{"totalPlaces":2,"managerType":"S","pkDistPlaces":8166,"userAuthorize":"PRAVIAME","userAssigned":"MENDOMAR","aviablePlaces":2,"fkCityByEvent":1877,"userAssignedName":"Mendoza, Martha"}],"gps":[{"totalPlaces":1,"managerType":"P","pkDistPlaces":8164,"userAuthorize":"PRAVIAME","userAssigned":"CRUZDANI","aviablePlaces":1,"fkCityByEvent":1877,"userAssignedName":"Cruz, Daniel"}],"gvs":[{"totalPlaces":2,"managerType":"S","pkDistPlaces":8166,"userAuthorize":"PRAVIAME","userAssigned":"MENDOMAR","aviablePlaces":2,"fkCityByEvent":1877,"userAssignedName":"Mendoza, Martha"}],"justific":null,"quotes":[],"totalGps":1,"totalGvs":2,"pendingPlaces":1,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"69","responsible":"Daniel Cruz","estatusActual":"103","pkEventId":"MEXnull0017","evtName":"Evento 3","modalidad":"Capacitación, Ventas","fehcaInicio":"29/05/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Internacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":1049,"fkEvent":"MEXnull0017","city":{"name":"TOLUCA","state":{"name":"EDO. DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"MEX","idState":594},"country":null,"status":null,"code":"MEX","idCity":5936},"endDate":"2017-05-31","startDate":"2017-05-29","lodgingPlace":"Hospedaje 3","evtEstimatedAudience":50,"evtGuestWithExpenses":30,"evtGuestWithOutExpenses":20,"noSpeaker":50,"noInternalGuest":10,"noExternalGuest":50,"totalPlaces":110,"evtSede":"Sede 3","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":30,"managerType":"P","pkDistPlaces":5717,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":30,"fkCityByEvent":1049,"userAssignedName":"Cruz, Daniel"},{"totalPlaces":20,"managerType":"S","pkDistPlaces":5718,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":20,"fkCityByEvent":1049,"userAssignedName":"Mendoza, Martha"}],"gps":[{"totalPlaces":30,"managerType":"P","pkDistPlaces":5717,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":30,"fkCityByEvent":1049,"userAssignedName":"Cruz, Daniel"}],"gvs":[{"totalPlaces":20,"managerType":"S","pkDistPlaces":5718,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":20,"fkCityByEvent":1049,"userAssignedName":"Mendoza, Martha"}],"justific":null,"quotes":[],"totalGps":30,"totalGvs":20,"pendingPlaces":30,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null},{"status":null,"pkCityByEvent":1050,"fkEvent":"MEXnull0017","city":{"name":"TOLUCA","state":{"name":"EDO. DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"MEX","idState":594},"country":null,"status":null,"code":"MEX","idCity":5936},"endDate":"2017-05-31","startDate":"2017-05-29","lodgingPlace":"Hospedaje 3","evtEstimatedAudience":50,"evtGuestWithExpenses":30,"evtGuestWithOutExpenses":20,"noSpeaker":50,"noInternalGuest":10,"noExternalGuest":50,"totalPlaces":110,"evtSede":"Sede 3","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":30,"managerType":"P","pkDistPlaces":5721,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":30,"fkCityByEvent":1050,"userAssignedName":"Cruz, Daniel"},{"totalPlaces":20,"managerType":"S","pkDistPlaces":5722,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":20,"fkCityByEvent":1050,"userAssignedName":"Mendoza, Martha"}],"gps":[{"totalPlaces":30,"managerType":"P","pkDistPlaces":5721,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":30,"fkCityByEvent":1050,"userAssignedName":"Cruz, Daniel"}],"gvs":[{"totalPlaces":20,"managerType":"S","pkDistPlaces":5722,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":20,"fkCityByEvent":1050,"userAssignedName":"Mendoza, Martha"}],"justific":null,"quotes":[],"totalGps":30,"totalGvs":20,"pendingPlaces":30,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"2","responsible":"Daniel Cruz","estatusActual":"103","pkEventId":"MEXnull0018","evtName":"evento 4","modalidad":"BMOM","fehcaInicio":"30/05/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Internacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":1051,"fkEvent":"MEXnull0018","city":{"name":"Reforma Politica","state":{"name":"CIUDAD DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"CDMX","idState":588},"country":null,"status":null,"code":"CAT_CITY_6042","idCity":6042},"endDate":"2017-05-31","startDate":"2017-05-30","lodgingPlace":"hoetel","evtEstimatedAudience":10,"evtGuestWithExpenses":10,"evtGuestWithOutExpenses":10,"noSpeaker":10,"noInternalGuest":10,"noExternalGuest":20,"totalPlaces":40,"evtSede":"sede4","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":5725,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":10,"fkCityByEvent":1051,"userAssignedName":"Cruz, Daniel"},{"totalPlaces":10,"managerType":"S","pkDistPlaces":5726,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":10,"fkCityByEvent":1051,"userAssignedName":"Mendoza, Martha"}],"gps":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":5725,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":10,"fkCityByEvent":1051,"userAssignedName":"Cruz, Daniel"}],"gvs":[{"totalPlaces":10,"managerType":"S","pkDistPlaces":5726,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":10,"fkCityByEvent":1051,"userAssignedName":"Mendoza, Martha"}],"justific":null,"quotes":[],"totalGps":10,"totalGvs":10,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null},{"status":null,"pkCityByEvent":1052,"fkEvent":"MEXnull0018","city":{"name":"Reforma Politica","state":{"name":"CIUDAD DE MEXICO","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"CDMX","idState":588},"country":null,"status":null,"code":"CAT_CITY_6042","idCity":6042},"endDate":"2017-05-31","startDate":"2017-05-30","lodgingPlace":"hoetel","evtEstimatedAudience":10,"evtGuestWithExpenses":10,"evtGuestWithOutExpenses":10,"noSpeaker":10,"noInternalGuest":10,"noExternalGuest":20,"totalPlaces":40,"evtSede":"sede4","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":5729,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":10,"fkCityByEvent":1052,"userAssignedName":"Cruz, Daniel"},{"totalPlaces":10,"managerType":"S","pkDistPlaces":5730,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":10,"fkCityByEvent":1052,"userAssignedName":"Mendoza, Martha"}],"gps":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":5729,"userAuthorize":"CRUZDANI","userAssigned":"CRUZDANI","aviablePlaces":10,"fkCityByEvent":1052,"userAssignedName":"Cruz, Daniel"}],"gvs":[{"totalPlaces":10,"managerType":"S","pkDistPlaces":5730,"userAuthorize":"CRUZDANI","userAssigned":"MENDOMAR","aviablePlaces":10,"fkCityByEvent":1052,"userAssignedName":"Mendoza, Martha"}],"justific":null,"quotes":[],"totalGps":10,"totalGvs":10,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"10","responsible":"Yahir Guzman","estatusActual":"103","pkEventId":"MEXINT0030","evtName":"evento alemania ginecologia","modalidad":"Congreso","fehcaInicio":"20/08/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Internacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":3126,"fkEvent":"MEXINT0030","city":{"name":"\tFrankfurt\t","state":{"name":"ALEMANIA","country":{"name":"ALEMANIA","status":"Y","idCountry":97,"code":"ALEMANIA","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"ALEMANIA","idState":348},"country":null,"status":null,"code":"\tFrankfurt\t","idCity":741},"endDate":"2017-08-31","startDate":"2017-08-20","lodgingPlace":"riu eitracht","evtEstimatedAudience":1500,"evtGuestWithExpenses":20,"evtGuestWithOutExpenses":10,"noSpeaker":4,"noInternalGuest":2,"noExternalGuest":30,"totalPlaces":36,"evtSede":"centro de convenciones Eitracht","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":21,"managerType":"P","pkDistPlaces":12513,"userAuthorize":"GALMARIO","userAssigned":"GADANIEL","aviablePlaces":21,"fkCityByEvent":3126,"userAssignedName":"Garcia Nava, Daniel"},{"totalPlaces":3,"managerType":"S","pkDistPlaces":12514,"userAuthorize":"GALMARIO","userAssigned":"GALICIAD","aviablePlaces":3,"fkCityByEvent":3126,"userAssignedName":"Galicia, Donovan"},{"totalPlaces":2,"managerType":"C","pkDistPlaces":12515,"userAuthorize":"GALMARIO","userAssigned":"PRAVIAME","aviablePlaces":2,"fkCityByEvent":3126,"userAssignedName":"Pravia Mendez, Bertha Alicia"}],"gps":[{"totalPlaces":21,"managerType":"P","pkDistPlaces":12513,"userAuthorize":"GALMARIO","userAssigned":"GADANIEL","aviablePlaces":21,"fkCityByEvent":3126,"userAssignedName":"Garcia Nava, Daniel"}],"gvs":[{"totalPlaces":3,"managerType":"S","pkDistPlaces":12514,"userAuthorize":"GALMARIO","userAssigned":"GALICIAD","aviablePlaces":3,"fkCityByEvent":3126,"userAssignedName":"Galicia, Donovan"}],"justific":null,"quotes":[{"quoteId":1040,"quoteNumber":1,"quoteUrlDocument":"everest/document/doc.pdf","quoteUrlDetail":"everest/get/quoteDetail/1040","quoteReference":"Propuesta Basica","quoteTotalCost":10000.45},{"quoteId":1041,"quoteNumber":2,"quoteUrlDocument":"everest/document/doc.pdf","quoteUrlDetail":"everest/get/quoteDetail/1041","quoteReference":null,"quoteTotalCost":10000.45},{"quoteId":1042,"quoteNumber":3,"quoteUrlDocument":"everest/document/doc.pdf","quoteUrlDetail":"everest/get/quoteDetail/1042","quoteReference":null,"quoteTotalCost":10000.45}],"totalGps":21,"totalGvs":3,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"7","responsible":"Huerta, Ruben Daniel","estatusActual":"103","pkEventId":"MEXNAC0084","evtName":"test","modalidad":"Actualizacion de Investigaciones Cerradas","fehcaInicio":"20/07/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":3129,"fkEvent":"MEXNAC0084","city":{"name":"AGUASCALIENTES","state":{"name":"AGUASCALIENTES","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"AGS","idState":581},"country":null,"status":null,"code":"AGS","idCity":5901},"endDate":"2017-07-21","startDate":"2017-07-20","lodgingPlace":"test","evtEstimatedAudience":10,"evtGuestWithExpenses":0,"evtGuestWithOutExpenses":0,"noSpeaker":10,"noInternalGuest":10,"noExternalGuest":0,"totalPlaces":20,"evtSede":"test","backupGuest":3,"backupSpeaker":3,"cupos":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":12636,"userAuthorize":"GADANIEL","userAssigned":"HUERTARU","aviablePlaces":10,"fkCityByEvent":3129,"userAssignedName":"Huerta, Ruben Daniel"}],"gps":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":12636,"userAuthorize":"GADANIEL","userAssigned":"HUERTARU","aviablePlaces":10,"fkCityByEvent":3129,"userAssignedName":"Huerta, Ruben Daniel"}],"gvs":[{"totalPlaces":null,"managerType":"S","pkDistPlaces":null,"userAuthorize":null,"userAssigned":null,"aviablePlaces":null,"fkCityByEvent":null,"userAssignedName":null}],"justific":null,"quotes":[],"totalGps":10,"totalGvs":0,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"73","responsible":"Martha Mendoza Tapia","estatusActual":"103","pkEventId":"MEXNAC0077","evtName":"Mega Mide","modalidad":"Summit","fehcaInicio":"08/06/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":3103,"fkEvent":"MEXNAC0077","city":{"name":"TIJUANA","state":{"name":"BAJA CALIFORNIA","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"BC","idState":582},"country":null,"status":null,"code":"BC","idCity":5904},"endDate":"2017-06-09","startDate":"2017-06-08","lodgingPlace":"Hotel Real INN","evtEstimatedAudience":110,"evtGuestWithExpenses":110,"evtGuestWithOutExpenses":0,"noSpeaker":9,"noInternalGuest":20,"noExternalGuest":110,"totalPlaces":139,"evtSede":"Hotel Real INN","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":9,"managerType":"P","pkDistPlaces":12380,"userAuthorize":"MENDOMAR","userAssigned":"CAMARILR","aviablePlaces":9,"fkCityByEvent":3103,"userAssignedName":"Camarillo, Rodolfo"},{"totalPlaces":110,"managerType":"S","pkDistPlaces":12381,"userAuthorize":"MENDOMAR","userAssigned":"ULLOAEL","aviablePlaces":110,"fkCityByEvent":3103,"userAssignedName":"Ulloa, Elizabeth"}],"gps":[{"totalPlaces":9,"managerType":"P","pkDistPlaces":12380,"userAuthorize":"MENDOMAR","userAssigned":"CAMARILR","aviablePlaces":9,"fkCityByEvent":3103,"userAssignedName":"Camarillo, Rodolfo"}],"gvs":[{"totalPlaces":110,"managerType":"S","pkDistPlaces":12381,"userAuthorize":"MENDOMAR","userAssigned":"ULLOAEL","aviablePlaces":110,"fkCityByEvent":3103,"userAssignedName":"Ulloa, Elizabeth"}],"justific":null,"quotes":[],"totalGps":9,"totalGvs":110,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"1","responsible":"Bertha Alicia Pravia Mendez","estatusActual":"103","pkEventId":"MEXNAC0059","evtName":"ASISTENTE - PRUEBAS","modalidad":"Advisory Board","fehcaInicio":"03/06/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":2470,"fkEvent":"MEXNAC0059","city":{"name":"MONTERREY","state":{"name":"NUEVO LEON","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"NL","idState":598},"country":null,"status":null,"code":"NL","idCity":5943},"endDate":"2017-06-07","startDate":"2017-06-03","lodgingPlace":"1","evtEstimatedAudience":12,"evtGuestWithExpenses":1,"evtGuestWithOutExpenses":1,"noSpeaker":1,"noInternalGuest":1,"noExternalGuest":2,"totalPlaces":4,"evtSede":"1","backupGuest":30,"backupSpeaker":30,"cupos":[],"gps":[{"totalPlaces":null,"managerType":"P","pkDistPlaces":null,"userAuthorize":null,"userAssigned":null,"aviablePlaces":null,"fkCityByEvent":null,"userAssignedName":null}],"gvs":[{"totalPlaces":null,"managerType":"S","pkDistPlaces":null,"userAuthorize":null,"userAssigned":null,"aviablePlaces":null,"fkCityByEvent":null,"userAssignedName":null}],"justific":null,"quotes":[],"totalGps":0,"totalGvs":0,"pendingPlaces":2,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]},{"eventMode":"32","responsible":"Bertha Alicia Pravia Mendez","estatusActual":"103","pkEventId":"MEXNAC0039","evtName":"B-04","modalidad":"Expert Input Forum","fehcaInicio":"03/06/2017","nombreEstatus":"Aprobación por excepción","tipoEven":"Nacional","agencia":null,"isidAgency":null,"venues":[{"status":null,"pkCityByEvent":1739,"fkEvent":"MEXNAC0039","city":{"name":"TEPIC","state":{"name":"NAYARIT","country":{"name":"MEXICO","status":"Y","idCountry":1,"code":"MEX","coin":null,"idiom":null,"createEvents":null},"status":null,"code":"NAY","idState":597},"country":null,"status":null,"code":"NAY","idCity":5942},"endDate":"2017-06-05","startDate":"2017-06-03","lodgingPlace":"Hotel Fiesta Americana","evtEstimatedAudience":100,"evtGuestWithExpenses":10,"evtGuestWithOutExpenses":10,"noSpeaker":10,"noInternalGuest":10,"noExternalGuest":20,"totalPlaces":40,"evtSede":"Fiesta Americana","backupGuest":30,"backupSpeaker":30,"cupos":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":7685,"userAuthorize":"PRAVIAME","userAssigned":"PRAVIAME","aviablePlaces":10,"fkCityByEvent":1739,"userAssignedName":"Pravia Mendez, Bertha Alicia"},{"totalPlaces":10,"managerType":"S","pkDistPlaces":7686,"userAuthorize":"PRAVIAME","userAssigned":"PRAVIAME","aviablePlaces":10,"fkCityByEvent":1739,"userAssignedName":"Pravia Mendez, Bertha Alicia"}],"gps":[{"totalPlaces":10,"managerType":"P","pkDistPlaces":7685,"userAuthorize":"PRAVIAME","userAssigned":"PRAVIAME","aviablePlaces":10,"fkCityByEvent":1739,"userAssignedName":"Pravia Mendez, Bertha Alicia"}],"gvs":[{"totalPlaces":10,"managerType":"S","pkDistPlaces":7686,"userAuthorize":"PRAVIAME","userAssigned":"PRAVIAME","aviablePlaces":10,"fkCityByEvent":1739,"userAssignedName":"Pravia Mendez, Bertha Alicia"}],"justific":null,"quotes":[],"totalGps":10,"totalGvs":10,"pendingPlaces":0,"mgp":null,"mlp":null,"availablePlaces":null,"typePlaces":null,"requeriments":null,"presentations":null}]}]}
- 
+{
+  "error": {
+    "description": "OK",
+    "code": "100"
+  },
+  "eventList": [
+    {
+      "eventMode": "53",
+      "responsible": "Huerta, Ruben Daniel",
+      "estatusActual": "103",
+      "pkEventId": "MEXNAC0066",
+      "evtName": "test",
+      "modalidad": "Educación de nuevos productos",
+      "fehcaInicio": "29/07/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Nacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 2670,
+          "fkEvent": "MEXNAC0066",
+          "city": {
+            "name": "CIUDAD DE MEXICO",
+            "state": {
+              "name": "CIUDAD DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "CDMX",
+              "idState": 588
+            },
+            "country": null,
+            "status": null,
+            "code": "CDMX",
+            "idCity": 5961
+          },
+          "endDate": "2017-08-02",
+          "startDate": "2017-07-29",
+          "lodgingPlace": "test",
+          "evtEstimatedAudience": 0,
+          "evtGuestWithExpenses": 0,
+          "evtGuestWithOutExpenses": 0,
+          "noSpeaker": 0,
+          "noInternalGuest": 0,
+          "noExternalGuest": 0,
+          "totalPlaces": 0,
+          "evtSede": "test",
+          "backupGuest": 0,
+          "backupSpeaker": 0,
+          "cupos": [],
+          "gps": [
+            {
+              "totalPlaces": null,
+              "managerType": "P",
+              "pkDistPlaces": null,
+              "userAuthorize": null,
+              "userAssigned": null,
+              "aviablePlaces": null,
+              "fkCityByEvent": null,
+              "userAssignedName": null
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": null,
+              "managerType": "S",
+              "pkDistPlaces": null,
+              "userAuthorize": null,
+              "userAssigned": null,
+              "aviablePlaces": null,
+              "fkCityByEvent": null,
+              "userAssignedName": null
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 0,
+          "totalGvs": 0,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "7",
+      "responsible": "Daniel Cruz",
+      "estatusActual": "103",
+      "pkEventId": "MEXNAC0047",
+      "evtName": "E13",
+      "modalidad": "Actualizacion de Investigaciones Cerradas",
+      "fehcaInicio": "31/05/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Nacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 1877,
+          "fkEvent": "MEXNAC0047",
+          "city": {
+            "name": "TOLUCA",
+            "state": {
+              "name": "EDO. DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "MEX",
+              "idState": 594
+            },
+            "country": null,
+            "status": null,
+            "code": "MEX",
+            "idCity": 5936
+          },
+          "endDate": "2017-05-31",
+          "startDate": "2017-05-31",
+          "lodgingPlace": "E13",
+          "evtEstimatedAudience": 2,
+          "evtGuestWithExpenses": 2,
+          "evtGuestWithOutExpenses": 2,
+          "noSpeaker": 2,
+          "noInternalGuest": 2,
+          "noExternalGuest": 4,
+          "totalPlaces": 8,
+          "evtSede": "E13",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 1,
+              "managerType": "P",
+              "pkDistPlaces": 8164,
+              "userAuthorize": "PRAVIAME",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 1,
+              "fkCityByEvent": 1877,
+              "userAssignedName": "Cruz, Daniel"
+            },
+            {
+              "totalPlaces": 2,
+              "managerType": "S",
+              "pkDistPlaces": 8166,
+              "userAuthorize": "PRAVIAME",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 2,
+              "fkCityByEvent": 1877,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 1,
+              "managerType": "P",
+              "pkDistPlaces": 8164,
+              "userAuthorize": "PRAVIAME",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 1,
+              "fkCityByEvent": 1877,
+              "userAssignedName": "Cruz, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 2,
+              "managerType": "S",
+              "pkDistPlaces": 8166,
+              "userAuthorize": "PRAVIAME",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 2,
+              "fkCityByEvent": 1877,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 1,
+          "totalGvs": 2,
+          "pendingPlaces": 1,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "69",
+      "responsible": "Daniel Cruz",
+      "estatusActual": "103",
+      "pkEventId": "MEXnull0017",
+      "evtName": "Evento 3",
+      "modalidad": "Capacitación, Ventas",
+      "fehcaInicio": "29/05/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Internacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 1049,
+          "fkEvent": "MEXnull0017",
+          "city": {
+            "name": "TOLUCA",
+            "state": {
+              "name": "EDO. DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "MEX",
+              "idState": 594
+            },
+            "country": null,
+            "status": null,
+            "code": "MEX",
+            "idCity": 5936
+          },
+          "endDate": "2017-05-31",
+          "startDate": "2017-05-29",
+          "lodgingPlace": "Hospedaje 3",
+          "evtEstimatedAudience": 50,
+          "evtGuestWithExpenses": 30,
+          "evtGuestWithOutExpenses": 20,
+          "noSpeaker": 50,
+          "noInternalGuest": 10,
+          "noExternalGuest": 50,
+          "totalPlaces": 110,
+          "evtSede": "Sede 3",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 30,
+              "managerType": "P",
+              "pkDistPlaces": 5717,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 30,
+              "fkCityByEvent": 1049,
+              "userAssignedName": "Cruz, Daniel"
+            },
+            {
+              "totalPlaces": 20,
+              "managerType": "S",
+              "pkDistPlaces": 5718,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 20,
+              "fkCityByEvent": 1049,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 30,
+              "managerType": "P",
+              "pkDistPlaces": 5717,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 30,
+              "fkCityByEvent": 1049,
+              "userAssignedName": "Cruz, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 20,
+              "managerType": "S",
+              "pkDistPlaces": 5718,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 20,
+              "fkCityByEvent": 1049,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 30,
+          "totalGvs": 20,
+          "pendingPlaces": 30,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        },
+        {
+          "status": null,
+          "pkCityByEvent": 1050,
+          "fkEvent": "MEXnull0017",
+          "city": {
+            "name": "TOLUCA",
+            "state": {
+              "name": "EDO. DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "MEX",
+              "idState": 594
+            },
+            "country": null,
+            "status": null,
+            "code": "MEX",
+            "idCity": 5936
+          },
+          "endDate": "2017-05-31",
+          "startDate": "2017-05-29",
+          "lodgingPlace": "Hospedaje 3",
+          "evtEstimatedAudience": 50,
+          "evtGuestWithExpenses": 30,
+          "evtGuestWithOutExpenses": 20,
+          "noSpeaker": 50,
+          "noInternalGuest": 10,
+          "noExternalGuest": 50,
+          "totalPlaces": 110,
+          "evtSede": "Sede 3",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 30,
+              "managerType": "P",
+              "pkDistPlaces": 5721,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 30,
+              "fkCityByEvent": 1050,
+              "userAssignedName": "Cruz, Daniel"
+            },
+            {
+              "totalPlaces": 20,
+              "managerType": "S",
+              "pkDistPlaces": 5722,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 20,
+              "fkCityByEvent": 1050,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 30,
+              "managerType": "P",
+              "pkDistPlaces": 5721,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 30,
+              "fkCityByEvent": 1050,
+              "userAssignedName": "Cruz, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 20,
+              "managerType": "S",
+              "pkDistPlaces": 5722,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 20,
+              "fkCityByEvent": 1050,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 30,
+          "totalGvs": 20,
+          "pendingPlaces": 30,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "2",
+      "responsible": "Daniel Cruz",
+      "estatusActual": "103",
+      "pkEventId": "MEXnull0018",
+      "evtName": "evento 4",
+      "modalidad": "BMOM",
+      "fehcaInicio": "30/05/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Internacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 1051,
+          "fkEvent": "MEXnull0018",
+          "city": {
+            "name": "Reforma Politica",
+            "state": {
+              "name": "CIUDAD DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "CDMX",
+              "idState": 588
+            },
+            "country": null,
+            "status": null,
+            "code": "CAT_CITY_6042",
+            "idCity": 6042
+          },
+          "endDate": "2017-05-31",
+          "startDate": "2017-05-30",
+          "lodgingPlace": "hoetel",
+          "evtEstimatedAudience": 10,
+          "evtGuestWithExpenses": 10,
+          "evtGuestWithOutExpenses": 10,
+          "noSpeaker": 10,
+          "noInternalGuest": 10,
+          "noExternalGuest": 20,
+          "totalPlaces": 40,
+          "evtSede": "sede4",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 5725,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1051,
+              "userAssignedName": "Cruz, Daniel"
+            },
+            {
+              "totalPlaces": 10,
+              "managerType": "S",
+              "pkDistPlaces": 5726,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1051,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 5725,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1051,
+              "userAssignedName": "Cruz, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 10,
+              "managerType": "S",
+              "pkDistPlaces": 5726,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1051,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 10,
+          "totalGvs": 10,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        },
+        {
+          "status": null,
+          "pkCityByEvent": 1052,
+          "fkEvent": "MEXnull0018",
+          "city": {
+            "name": "Reforma Politica",
+            "state": {
+              "name": "CIUDAD DE MEXICO",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "CDMX",
+              "idState": 588
+            },
+            "country": null,
+            "status": null,
+            "code": "CAT_CITY_6042",
+            "idCity": 6042
+          },
+          "endDate": "2017-05-31",
+          "startDate": "2017-05-30",
+          "lodgingPlace": "hoetel",
+          "evtEstimatedAudience": 10,
+          "evtGuestWithExpenses": 10,
+          "evtGuestWithOutExpenses": 10,
+          "noSpeaker": 10,
+          "noInternalGuest": 10,
+          "noExternalGuest": 20,
+          "totalPlaces": 40,
+          "evtSede": "sede4",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 5729,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1052,
+              "userAssignedName": "Cruz, Daniel"
+            },
+            {
+              "totalPlaces": 10,
+              "managerType": "S",
+              "pkDistPlaces": 5730,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1052,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 5729,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "CRUZDANI",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1052,
+              "userAssignedName": "Cruz, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 10,
+              "managerType": "S",
+              "pkDistPlaces": 5730,
+              "userAuthorize": "CRUZDANI",
+              "userAssigned": "MENDOMAR",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 1052,
+              "userAssignedName": "Mendoza, Martha"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 10,
+          "totalGvs": 10,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "10",
+      "responsible": "Yahir Guzman",
+      "estatusActual": "103",
+      "pkEventId": "MEXINT0030",
+      "evtName": "evento alemania ginecologia",
+      "modalidad": "Congreso",
+      "fehcaInicio": "20/08/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Internacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 3126,
+          "fkEvent": "MEXINT0030",
+          "city": {
+            "name": "\tFrankfurt\t",
+            "state": {
+              "name": "ALEMANIA",
+              "country": {
+                "name": "ALEMANIA",
+                "status": "Y",
+                "idCountry": 97,
+                "code": "ALEMANIA",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "ALEMANIA",
+              "idState": 348
+            },
+            "country": null,
+            "status": null,
+            "code": "\tFrankfurt\t",
+            "idCity": 741
+          },
+          "endDate": "2017-08-31",
+          "startDate": "2017-08-20",
+          "lodgingPlace": "riu eitracht",
+          "evtEstimatedAudience": 1500,
+          "evtGuestWithExpenses": 20,
+          "evtGuestWithOutExpenses": 10,
+          "noSpeaker": 4,
+          "noInternalGuest": 2,
+          "noExternalGuest": 30,
+          "totalPlaces": 36,
+          "evtSede": "centro de convenciones Eitracht",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 21,
+              "managerType": "P",
+              "pkDistPlaces": 12513,
+              "userAuthorize": "GALMARIO",
+              "userAssigned": "GADANIEL",
+              "aviablePlaces": 21,
+              "fkCityByEvent": 3126,
+              "userAssignedName": "Garcia Nava, Daniel"
+            },
+            {
+              "totalPlaces": 3,
+              "managerType": "S",
+              "pkDistPlaces": 12514,
+              "userAuthorize": "GALMARIO",
+              "userAssigned": "GALICIAD",
+              "aviablePlaces": 3,
+              "fkCityByEvent": 3126,
+              "userAssignedName": "Galicia, Donovan"
+            },
+            {
+              "totalPlaces": 2,
+              "managerType": "C",
+              "pkDistPlaces": 12515,
+              "userAuthorize": "GALMARIO",
+              "userAssigned": "PRAVIAME",
+              "aviablePlaces": 2,
+              "fkCityByEvent": 3126,
+              "userAssignedName": "Pravia Mendez, Bertha Alicia"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 21,
+              "managerType": "P",
+              "pkDistPlaces": 12513,
+              "userAuthorize": "GALMARIO",
+              "userAssigned": "GADANIEL",
+              "aviablePlaces": 21,
+              "fkCityByEvent": 3126,
+              "userAssignedName": "Garcia Nava, Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 3,
+              "managerType": "S",
+              "pkDistPlaces": 12514,
+              "userAuthorize": "GALMARIO",
+              "userAssigned": "GALICIAD",
+              "aviablePlaces": 3,
+              "fkCityByEvent": 3126,
+              "userAssignedName": "Galicia, Donovan"
+            }
+          ],
+          "justific": null,
+          "quotes": [
+            {
+              "quoteId": 1040,
+              "quoteNumber": 1,
+              "quoteUrlDocument": "everest/document/doc.pdf",
+              "quoteUrlDetail": "everest/get/quoteDetail/1040",
+              "quoteReference": "Propuesta Basica",
+              "quoteTotalCost": 10000.45
+            },
+            {
+              "quoteId": 1041,
+              "quoteNumber": 2,
+              "quoteUrlDocument": "everest/document/doc.pdf",
+              "quoteUrlDetail": "everest/get/quoteDetail/1041",
+              "quoteReference": null,
+              "quoteTotalCost": 10000.45
+            },
+            {
+              "quoteId": 1042,
+              "quoteNumber": 3,
+              "quoteUrlDocument": "everest/document/doc.pdf",
+              "quoteUrlDetail": "everest/get/quoteDetail/1042",
+              "quoteReference": null,
+              "quoteTotalCost": 10000.45
+            }
+          ],
+          "totalGps": 21,
+          "totalGvs": 3,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "7",
+      "responsible": "Huerta, Ruben Daniel",
+      "estatusActual": "103",
+      "pkEventId": "MEXNAC0084",
+      "evtName": "test",
+      "modalidad": "Actualizacion de Investigaciones Cerradas",
+      "fehcaInicio": "20/07/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Nacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 3129,
+          "fkEvent": "MEXNAC0084",
+          "city": {
+            "name": "AGUASCALIENTES",
+            "state": {
+              "name": "AGUASCALIENTES",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "AGS",
+              "idState": 581
+            },
+            "country": null,
+            "status": null,
+            "code": "AGS",
+            "idCity": 5901
+          },
+          "endDate": "2017-07-21",
+          "startDate": "2017-07-20",
+          "lodgingPlace": "test",
+          "evtEstimatedAudience": 10,
+          "evtGuestWithExpenses": 0,
+          "evtGuestWithOutExpenses": 0,
+          "noSpeaker": 10,
+          "noInternalGuest": 10,
+          "noExternalGuest": 0,
+          "totalPlaces": 20,
+          "evtSede": "test",
+          "backupGuest": 3,
+          "backupSpeaker": 3,
+          "cupos": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 12636,
+              "userAuthorize": "GADANIEL",
+              "userAssigned": "HUERTARU",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 3129,
+              "userAssignedName": "Huerta, Ruben Daniel"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 10,
+              "managerType": "P",
+              "pkDistPlaces": 12636,
+              "userAuthorize": "GADANIEL",
+              "userAssigned": "HUERTARU",
+              "aviablePlaces": 10,
+              "fkCityByEvent": 3129,
+              "userAssignedName": "Huerta, Ruben Daniel"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": null,
+              "managerType": "S",
+              "pkDistPlaces": null,
+              "userAuthorize": null,
+              "userAssigned": null,
+              "aviablePlaces": null,
+              "fkCityByEvent": null,
+              "userAssignedName": null
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 10,
+          "totalGvs": 0,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    },
+    {
+      "eventMode": "73",
+      "responsible": "Martha Mendoza Tapia",
+      "estatusActual": "103",
+      "pkEventId": "MEXNAC0077",
+      "evtName": "Mega Mide",
+      "modalidad": "Summit",
+      "fehcaInicio": "08/06/2017",
+      "nombreEstatus": "Aprobación por excepción",
+      "tipoEven": "Nacional",
+      "agencia": null,
+      "isidAgency": null,
+      "venues": [
+        {
+          "status": null,
+          "pkCityByEvent": 3103,
+          "fkEvent": "MEXNAC0077",
+          "city": {
+            "name": "TIJUANA",
+            "state": {
+              "name": "BAJA CALIFORNIA",
+              "country": {
+                "name": "MEXICO",
+                "status": "Y",
+                "idCountry": 1,
+                "code": "MEX",
+                "coin": null,
+                "idiom": null,
+                "createEvents": null
+              },
+              "status": null,
+              "code": "BC",
+              "idState": 582
+            },
+            "country": null,
+            "status": null,
+            "code": "BC",
+            "idCity": 5904
+          },
+          "endDate": "2017-06-09",
+          "startDate": "2017-06-08",
+          "lodgingPlace": "Hotel Real INN",
+          "evtEstimatedAudience": 110,
+          "evtGuestWithExpenses": 110,
+          "evtGuestWithOutExpenses": 0,
+          "noSpeaker": 9,
+          "noInternalGuest": 20,
+          "noExternalGuest": 110,
+          "totalPlaces": 139,
+          "evtSede": "Hotel Real INN",
+          "backupGuest": 30,
+          "backupSpeaker": 30,
+          "cupos": [
+            {
+              "totalPlaces": 9,
+              "managerType": "P",
+              "pkDistPlaces": 12380,
+              "userAuthorize": "MENDOMAR",
+              "userAssigned": "CAMARILR",
+              "aviablePlaces": 9,
+              "fkCityByEvent": 3103,
+              "userAssignedName": "Camarillo, Rodolfo"
+            },
+            {
+              "totalPlaces": 110,
+              "managerType": "S",
+              "pkDistPlaces": 12381,
+              "userAuthorize": "MENDOMAR",
+              "userAssigned": "ULLOAEL",
+              "aviablePlaces": 110,
+              "fkCityByEvent": 3103,
+              "userAssignedName": "Ulloa, Elizabeth"
+            }
+          ],
+          "gps": [
+            {
+              "totalPlaces": 9,
+              "managerType": "P",
+              "pkDistPlaces": 12380,
+              "userAuthorize": "MENDOMAR",
+              "userAssigned": "CAMARILR",
+              "aviablePlaces": 9,
+              "fkCityByEvent": 3103,
+              "userAssignedName": "Camarillo, Rodolfo"
+            }
+          ],
+          "gvs": [
+            {
+              "totalPlaces": 110,
+              "managerType": "S",
+              "pkDistPlaces": 12381,
+              "userAuthorize": "MENDOMAR",
+              "userAssigned": "ULLOAEL",
+              "aviablePlaces": 110,
+              "fkCityByEvent": 3103,
+              "userAssignedName": "Ulloa, Elizabeth"
+            }
+          ],
+          "justific": null,
+          "quotes": [],
+          "totalGps": 9,
+          "totalGvs": 110,
+          "pendingPlaces": 0,
+          "mgp": null,
+          "mlp": null,
+          "availablePlaces": null,
+          "typePlaces": null,
+          "requeriments": null,
+          "presentations": null
+        }
+      ]
+    }
+  ]
+}
